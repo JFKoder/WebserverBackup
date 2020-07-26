@@ -1,0 +1,17 @@
+[
+	{
+		"backupname": "",
+		"server" : "",
+		"FTPuser" : "",
+		"FTPpass" : "",
+		"FTP_dir" : "",
+		"local_dir": "",
+		"db_backup" : false,
+		"db_backuptyp": "mysqldump",
+		"db_budir" : "",
+		"db_server" :"",
+		"db_user" : "",
+		"db_pass" : "",
+		"db_databse" : ""
+	}
+]
